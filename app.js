@@ -3,6 +3,8 @@ const cellules = document.querySelectorAll('.cell');
 
 let verouillage = true;
 let joueurEnCours = "X";
+//let img = new Image(/img/tenia-le-choc-des-cultures.png);
+
 
 info.innerHTML = `Au tour de ${joueurEnCours}`;
 
